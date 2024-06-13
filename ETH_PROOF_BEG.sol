@@ -1,8 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
-//0x0000000000000000000000000000000000000000
-//0x0000000000000000000000000000000000000001
 
 contract BikeFuel {
     // Public variables to store token details
