@@ -1,4 +1,4 @@
-# BikeFuel COin
+# BikeFuel Coin
 
 The Solidity contract defines a token with public details, tracks balances using a mapping, and includes functions to mint (increase supply and balance) and burn (decrease supply and balance) tokens.
 
